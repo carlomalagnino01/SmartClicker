@@ -1,12 +1,12 @@
 # Smart Clicker
 
-## <ins>Steps</ins>:
+## Steps:
 1)	Download Repository
 2)	Create a virtual environment (Python 3.8)
 3)	Import modules/packages using ‘requirements.txt’
 4)	Run ‘clicker.py’
 
-## <ins>Main Gestures</ins>:
+## Main Gestures:
        
 ![alt text](images/img1.PNG)
 
