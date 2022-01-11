@@ -16,7 +16,7 @@ Two main predefined gestures are exploited:
 
 ![alt text](images/img1.PNG)
 
-<ins>NB</ins>: ‘Smart_Clicker’ can be seen during PowerPoint Presentations.
+<ins>Note</ins>: ‘Smart_Clicker’ can be seen during PowerPoint Presentations.
 
 ![alt text](images/img2.png)
 
