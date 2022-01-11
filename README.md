@@ -1,6 +1,9 @@
 # Smart Clicker
 
-It tracks one hand by giving the chance to move in between slides, without using the keyboard or any additional hardware. 
+The script tracks one hand by giving the chance to move in between slides, without using the keyboard or any additional hardware. 
+Two main predefined gestures are exploited:
+- join thumb and forefinger -> NEXT SLIDE
+- join thumb and middle finger -> PREVIOUS SLIDE
 
 ## Steps:
 1)	Download Repository
