@@ -8,7 +8,7 @@ Steps:
 
 Main Gestures:
        
-![alt text](https://github.com/carlomalagnino01/SmartClicker/tree/main/images/img1.PNG?raw=true)
+![alt text](images/img1.PNG)
 
 
 NB: ‘Smart_Clicker’ can be seen during PowerPoint Presentations.
