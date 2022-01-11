@@ -12,5 +12,5 @@
 
 <ins>NB</ins>: ‘Smart_Clicker’ can be seen during PowerPoint Presentations.
 <p align="center">
-![alt text](images/img2.png)
+       ![alt text](images/img2.png)
 </p>
